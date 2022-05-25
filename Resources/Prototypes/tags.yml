@@ -211,6 +211,9 @@
   id: Machete
 
 - type: Tag
+  id: Medkit
+
+- type: Tag
   id: Matchstick
 
 - type: Tag
@@ -269,6 +272,9 @@
 
 - type: Tag
   id: PlantSampleTaker
+  
+- type: Tag
+  id: Plastic
 
 - type: Tag
   id: Plastic

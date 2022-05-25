@@ -8,7 +8,6 @@ using Content.Server.AI.Utility.Considerations.ActionBlocker;
 using Content.Server.AI.WorldState.States.Movement;
 using Content.Server.AI.WorldState.States;
 
-
 namespace Content.Server.AI.Utility.Actions.Bots
 {
     public sealed class GoToPuddleAndWait : UtilityAction
